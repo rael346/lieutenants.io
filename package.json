@@ -1,0 +1,9 @@
+{
+  "name": "lieutenants.io",
+  "version": "1.0.0",
+  "description": "A clone of the famous generals.io, written in SolidJS and Fastify ",
+  "scripts": {},
+  "keywords": [],
+  "author": "Duy Tran",
+  "license": "MIT"
+}
